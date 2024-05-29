@@ -1,0 +1,2 @@
+hello_world
+-DCATKIN_DEVEL_PREFIX=/home/yed/桌面/test1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yed/桌面/test1/catkin_ws/install -G Unix Makefiles
